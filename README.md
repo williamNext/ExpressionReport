@@ -3,4 +3,5 @@ This project was made to plot charts from the logs of the software FaceReader (N
 
 # Technologies
 Python 3.6.5
+
 Plotly
